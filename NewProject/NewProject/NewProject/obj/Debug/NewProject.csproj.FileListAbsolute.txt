@@ -1,0 +1,10 @@
+E:\NewProject\NewProject\NewProject\bin\Debug\NewProject.exe.config
+E:\NewProject\NewProject\NewProject\bin\Debug\NewProject.exe
+E:\NewProject\NewProject\NewProject\bin\Debug\NewProject.pdb
+E:\NewProject\NewProject\NewProject\obj\Debug\NewProject.csproj.AssemblyReference.cache
+E:\NewProject\NewProject\NewProject\obj\Debug\NewProject.Form1.resources
+E:\NewProject\NewProject\NewProject\obj\Debug\NewProject.Properties.Resources.resources
+E:\NewProject\NewProject\NewProject\obj\Debug\NewProject.csproj.GenerateResource.cache
+E:\NewProject\NewProject\NewProject\obj\Debug\NewProject.csproj.CoreCompileInputs.cache
+E:\NewProject\NewProject\NewProject\obj\Debug\NewProject.exe
+E:\NewProject\NewProject\NewProject\obj\Debug\NewProject.pdb
